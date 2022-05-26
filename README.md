@@ -1,6 +1,6 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# [Made in like 20 minutes total using this free template](http://buckymaler.com/global)
 
-This file contains crucial information about me.
+This site contains crucial information about me.
 
 The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
 
